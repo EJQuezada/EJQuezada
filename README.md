@@ -4,7 +4,7 @@ I am a Junior Full-Stack Web Developer with a background in Intellectual Propert
 
 Check out my portfolio website.  
 
-🧰 ##Toolbox
+### 🧰 Toolbox
 icons/html5/html5-original-wordmark.svg
 
 
