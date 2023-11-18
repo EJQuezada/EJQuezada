@@ -20,5 +20,6 @@ Check out my [portfolio website](https://ejquezada.github.io/edgar_professional_
 ### 📬 Connect with me!
 
 Feel free to e-mail me at edgar.quezada@gmail.com or message me via [LinkedIn](https://www.linkedin.com/in/edgarjquezada/) and I will get back you soon.
+I am also accessible via [Dev.io](https://dev.to/edgarjquezada).
 
 ---
