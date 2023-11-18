@@ -8,11 +8,8 @@ Check out my portfolio website.
 
 ### 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="36" height="36"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="36" height="36"/>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="36" height="36"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="36" height="36"/>
 <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="36" height="36"/>
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="36" height="36"/>
-
 ---
 ### 📬 Connect with me!
 
