@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Edgar Quezada!
 
-I am a Full-Stack Developer with a background in legal that is now transitioning into the tech world. I am thrilled to put my attention to detail, my problem-solving skills and my creativity to use in building and/or improving web sites and/or web based applications using the technologies listed in the toolbox below.
+I am a Full-Stack Developer with a background in legal that transitioned into the tech world after relocating to Berlin and bringing his German skills up to C1-C2 level. I am thrilled to put my attention to detail, my problem-solving skills and my creativity to use in building and/or improving web sites and/or web based applications using the technologies listed in the toolbox below.
 
 Check out my [portfolio website](https://ejquezada.github.io/edgar_quezada_developer_portfolio/).  
 
